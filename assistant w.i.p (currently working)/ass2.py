@@ -1,10 +1,8 @@
 #Desktop V0.4. 
-#wolframalpha database compilada y funcioando (◕‿◕)	
-#wiki databases compilada con errores (CORREGIR XD (－_－) zzZ)
+#wolframalpha database functioning (◕‿◕)	
+#wiki databases  functioning (◕‿◕)	
 
-#Desktop upgrade V0.4.1: databases programable y segun usuario
-
-#Desktop upgrade V0.5: Voice recognition (◕‿◕)♡
+#Desktop upgrade V0.5: Voice recognition (◕‿◕) WIP (on it at the moment)
 
 import wolframalpha
 client = wolframalpha.Client("45EP3U-RUPG2PRWXY")
